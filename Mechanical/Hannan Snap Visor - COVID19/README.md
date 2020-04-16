@@ -2,7 +2,7 @@
 
 *Open source flatpack full face visor.*
 
-**Last Updated: 14/04/2020**
+**Last Updated: 16/04/2020**
 
 **Share Link** : https://tinyurl.com/hannan-visor
 
@@ -11,6 +11,14 @@ As part of a national response to help the NHS during the Coronavirus pandemic. 
 ![Visor Render](visor.8.png)
 
 ![Open Lab; Newcastle University; Northumbria University; AMAP, University of Sunderland](logos.png)
+
+## Revison
+
+| Version                        | Date                                  | Release Notes                                  |
+|:------------------------------|:---------------------------------------|:---------------------------------------|
+| v1.1                          | 12/04/2020                             | Open Source files released             |
+| v1.2                          | 14/04/2020                             | Updated Legal Compliance               |
+| v1.3                          | 16/04/2020                             | Added modified Die-cut Designs with part numbers + removable CE mark dependent on certification   |
 
 
 ## Summary
